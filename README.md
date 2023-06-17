@@ -1,2 +1,4 @@
 # config-platform
-dynamic config platform base on golang
+Dynamic config platform base on golang
+
+Mind

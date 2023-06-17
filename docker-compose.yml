@@ -1,0 +1,5 @@
+services:
+  config-platform:
+    build: .
+    ports:
+      - "80:80"
